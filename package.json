@@ -1,0 +1,16 @@
+{
+  "name": "codenation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "paulodevsilva <silva.paulohr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "crypto": "^1.0.1",
+    "form-data": "^3.0.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
